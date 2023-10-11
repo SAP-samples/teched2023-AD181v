@@ -25,17 +25,16 @@ This session introduces attendees to the use of core features of the ABAP RESTfu
   <summary>Click to expand!</summary>
    
 The resulting _Travel_ app is a List Report app with navigation to an Object Page for entry details that will look like this:
-<!-- <img src="exercises/images/rap110_travelapp.png" alt="RAP110 Travel App" width="100%"> -->
 
 **List Report**:
-<img src="exercises/images/rap110_travelapp01.png" alt="RAP110 Travel App - List Report" width="100%">
+<img src="exercises/images/ad181v_travelapp01.png" alt="RAP110 Travel App - List Report" width="100%">
   
 **Object Page**: 
-<img src="exercises/images/rap110_travelapp02.png" alt="RAP110 Travel App - Object Page" width="100%">
+<img src="exercises/images/ad181v_travelapp02.png" alt="RAP110 Travel App - Object Page" width="100%">
 
 Below is the simplified _Flight_ data model underlying the app.
 
-<img src="exercises/images/rap110_datamodel.png" alt="RAP110 Data Model" width="80%">
+<img src="exercises/images/ad181v_datamodel.png" alt="RAP110 Data Model" width="80%">
 
 </details>
 
