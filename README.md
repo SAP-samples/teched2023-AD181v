@@ -26,7 +26,7 @@ This section provides a brief introduction to RAP and to the current business sc
 <details>
   <summary>Click to expand!</summary>
    
-The resulting _Travel_ app is a SAP Fiori elements-based List Report app with search, filter, and draft capabilities for processing travel bookings. A navigation to an Object Page for displaying the details of each _travel_ entry in the list report is offered.
+The resulting _Travel_ app is a SAP Fiori elements-based List Report app with search, filter, and draft capabilities for processing travel bookings. A navigation to an Object Page for displaying the details of each _travel_ entry in the list report is offered. The application will look like this: 
 
 that will look like this:
 
