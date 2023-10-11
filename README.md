@@ -4,9 +4,9 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 session called AD181v - Delve into ABAP Cloud on SAP BTP ABAP environment.  
+This repository contains the material for the SAP TechEd 2023 Jump-Start session called [AD181v - Delve into ABAP Cloud on SAP BTP, ABAP Environment](https://go3.events.sap.com/sapteched/virtual/2023/reg/flow/sap/sapteched23/catalog/page/catalog/session/1693019545062001fMQZ).  
 
-The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premise. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. We focus on the development capabilities in the ABAP development tools. 
+The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premises. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. We focus on the ABAP development capabilities in the ABAP development tools (ADT). For the preview of the SAP Fiori app, the _SAP Fiori elements App Preview_ integrated in ADT will be used.
 
 ## Overview
 
@@ -16,7 +16,6 @@ This section provides a brief introduction to RAP and to the current business sc
 
 <details>
   <summary>Click to expand!</summary>
-
 
 #### About the ABAP RESTful Application Programming Model (RAP)
    
@@ -65,7 +64,6 @@ Below is the simplified _Flight_ data model underlying the app.
 
 </details>
 
-
 </details>
 
 ## Requirements
@@ -77,13 +75,22 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-Start the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
+### Main exercises
+🛠 Access the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/master/rap1xx/rap110/README.md#-exercises).
+
+### Optional exercises
+
+The excercises above focus on the ABAP development capabilities in the ABAP development tools for Eclipse (ADT). For the preview of the resulting app, the _SAP Fiori elements App Preview_ integrated in ADT will be used. If you want to create the proper SAP Fiori app with the SAP Business Application Studio, then follow the description provided in the tutorial below from the SAP Developers' Center.
+
+🛠 [Develop and Run a Fiori Application with SAP Business Application Studio](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
 
 ## Presentation & Replay
 
 Access the ...
-- Session presentation: [AD181v@SAP_TechEd_2023.pdf (coming soon](/exercises/images/AD181v@SAP_TechEd_2023.pdf)
-- Session replay (_login required_)
+- Session presentation: [AD181v@SAP_TechEd_2023.pdf (coming soon)](/exercises/images/AD181v@SAP_TechEd_2023.pdf)
+<!--
+- Session replay (_login required_???)
+-->
 
 ## Related ressources
  - 📃 [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
