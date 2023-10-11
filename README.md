@@ -6,14 +6,39 @@
 
 This repository contains the material for the SAP TechEd 2023 session called AD181v - Delve into ABAP Cloud on SAP BTP ABAP environment.  
 
-The ABAP RESTful application programming model is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premise. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. We focus on the development capabilities in the ABAP development tools. 
+The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premise. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. We focus on the development capabilities in the ABAP development tools. 
 
 ## Overview
 
-This session introduces attendees to the use of core features of the ABAP RESTful Application Programmig Model (RAP) offered to build modern, transactional SAP Fiori apps and services.
+In this Jump-Start session, participants will learn how to use the core features of the ABAP RESTful application programming model (RAP) to build modern, cloud-ready, transactional SAP Fiori applications and services.
+
+This section provides a brief introduction to RAP and to the current business scenario.
 
 <details>
   <summary>Click to expand!</summary>
+
+
+#### About the ABAP RESTful Application Programming Model (RAP)
+   
+> **ABAP Cloud** is the development model for building cloud-ready business apps, services and extensions on SAP BTP and all SAP S/4HANA editions, i.e. public or private cloud, and even on-premise.
+>
+> The **ABAP RESTful Application Programming Model (RAP)** is the centerpiece of _ABAP Cloud development model_ for building transactional, cloud-ready SAP Fiori apps and Web APIs. RAP offers a set of concepts, tools, languages, and powerful frameworks provided on the ABAP platform. It supports the efficient development of innovative and cloud-ready enterprise applications, as well as the extension of SAP standard applications in an upgrade-stable way in the cloud and on-premise.
+
+<details>
+<summary>Click to expand!</summary>
+
+RAP is an enabler for improving the user experience and innovating business processes in ABAP-based SAP solutions by leveraging SAP Fiori, SAP HANA, and the cloud. 
+It is a long-term strategic solution for ABAP development on SAP’s flagship product SAP S/4HANA, in the cloud and on-premise (as of release 1909), as well as on the SAP BTP ABAP Environment.
+
+The illustration below shows the high-level end-to-end development stack when working with RAP.  
+
+<img src="exercises/images/rap_bigpicture.png" alt="RAP Big Picture" width="80%">
+
+**Learn more**:  
+ * [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
+ * [About the ABAP Cloud Development Model and SAP S/4HANA (Cloud) Extensibility](https://blogs.sap.com/2023/05/26/abap-cloud-sap-s-4hana-extensibility-may-2023-update/)
+
+</details>
 
 ### Business Scenario
 
@@ -24,7 +49,9 @@ This session introduces attendees to the use of core features of the ABAP RESTfu
 <details>
   <summary>Click to expand!</summary>
    
-The resulting _Travel_ app is a List Report app with navigation to an Object Page for entry details that will look like this:
+The resulting _Travel_ app is a SAP Fiori elements-based List Report app with search, filter, and draft capabilities for processing travel bookings. A navigation to an Object Page for displaying the details of each _travel_ entry in the list report is offered.
+
+that will look like this:
 
 **List Report**:
 <img src="exercises/images/ad181v_travelapp01.png" alt="RAP110 Travel App - List Report" width="100%">
@@ -38,26 +65,6 @@ Below is the simplified _Flight_ data model underlying the app.
 
 </details>
 
-
-#### About the ABAP RESTful Application Programming Model (RAP)
-   
-> **ABAP Cloud** is the development model for building cloud-ready business apps, services and extensions on SAP BTP and all SAP S/4HANA editions, i.e. public or private cloud, and even on-premise. [Learn more...](https://blogs.sap.com/2022/12/22/abap-cloud/)
->
-> The **ABAP RESTful Application Programming Model (RAP)** is the centerpiece of _ABAP Cloud_ for building transactional, cloud-ready SAP Fiori apps and Web APIs. RAP offers a set of concepts, tools, languages, and powerful frameworks provided on the ABAP platform. It supports the efficient development of innovative and cloud-ready enterprise applications, as well as the extension of SAP standard applications in an upgrade-stable way in the cloud and on-premise.
-
-<details>
-<summary>Click to expand!</summary>
-
-RAP is an enabler for improving the user experience and innovating business processes in ABAP-based SAP solutions by leveraging SAP Fiori, SAP HANA, and the cloud. 
-It is a long-term strategic solution for ABAP development on SAP’s flagship product SAP S/4HANA, in the cloud and on-premise (as of release 1909), as well as on the SAP BTP ABAP Environment.
-
-The illustration below shows the high-level end-to-end development stack when working with RAP.  
-
-<img src="exercises/images/rap_bigpicture.png" alt="RAP Big Picture" width="80%">
-
-> **Read more**: [Modern ABAP Development with the ABAP RESTful Application Programming Model (RAP)](https://community.sap.com/topics/abap/rap)
-
-</details>
 
 </details>
 
@@ -75,9 +82,14 @@ Start the exercises [here](https://github.tools.sap/D040081/rap_workshops/blob/m
 ## Presentation & Replay
 
 Access the ...
-- Session presentation: AD181v_RAP@SAP_TechEd_2023.pdf
+- Session presentation: [AD181v@SAP_TechEd_2023.pdf (coming soon](/exercises/images/AD181v@SAP_TechEd_2023.pdf)
 - Session replay (_login required_)
 
+## Related ressources
+ - 📃 [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
+ - 📄 [ABAP Cloud – SAP S/4HANA extensibility – May 2023 update | SAP Blogs](https://blogs.sap.com/2023/05/26/abap-cloud-sap-s-4hana-extensibility-may-2023-update/)
+ - 🛠 [Develop and Run a Fiori Application with SAP Business Application Studio | SAP Tutorials](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
+ - 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
