@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2023 Jump-Start session called [AD181v - Delve into ABAP Cloud on SAP BTP, ABAP Environment](https://go3.events.sap.com/sapteched/virtual/2023/reg/flow/sap/sapteched23/catalog/page/catalog/session/1693019545062001fMQZ).  
+This repository contains the material for the SAP TechEd 2023 Jump-Start session [AD181v - Delve into ABAP Cloud on SAP BTP, ABAP Environment](https://go3.events.sap.com/sapteched/virtual/2023/reg/flow/sap/sapteched23/catalog/page/catalog/session/1693019545062001fMQZ).  
 
   > 📺 Live session: 📅 Friday, Nov 3 | 🕐 6:30 PM – 6:55 PM CET (9:30 AM – 9:55 AM PST)
 
