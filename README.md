@@ -86,10 +86,11 @@ The excercises above focus on the development capabilities available in the ABAP
 Access the ...
 - Session presentation: [AD181v@SAP_TechEd_2023.pdf (coming soon)](/exercises/images/AD181v@SAP_TechEd_2023.pdf)
 - Session details: [Delve into ABAP Cloud on SAP BTP, ABAP Environment – AD181v](https://go3.events.sap.com/sapteched/virtual/2023/reg/flow/sap/sapteched23/catalog/page/catalog/session/1693019545062001fMQZ)
-  - Live session: 📅 Friday, Nov 3 | 🕐 6:30 PM – 6:55 PM CET (9:30 AM – 9:55 AM PST)
+  - 📺 Live session: 📅 Friday, Nov 3 | 🕐 6:30 PM – 6:55 PM CET (9:30 AM – 9:55 AM PST)
   - 📺 Replay will be available after the live session 
 
 ## Related ressources
+ - 📍 [ABAP Cloud Sessions at SAP TechEd 2023](https://blogs.sap.com/2023/10/02/abap-cloud-at-sap-teched-in-2023/)
  - 📃 [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
  - 📄 [ABAP Cloud – SAP S/4HANA extensibility – May 2023 update | SAP Blogs](https://blogs.sap.com/2023/05/26/abap-cloud-sap-s-4hana-extensibility-may-2023-update/)
  - 🛠 [Develop and Run a Fiori Application with SAP Business Application Studio | SAP Tutorials](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
