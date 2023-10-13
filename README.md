@@ -80,13 +80,14 @@ The excercises above focus on the development capabilities available in the ABAP
 
 🛠 [Develop, Deploy, and Run a Fiori Application with SAP Business Application Studio | SAP Tutorials](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
 
+
 ## Presentation & Replay
 
 Access the ...
 - Session presentation: [AD181v@SAP_TechEd_2023.pdf (coming soon)](/exercises/images/AD181v@SAP_TechEd_2023.pdf)
-<!--
-- Session replay (_login required_???)
--->
+- Session details: [Delve into ABAP Cloud on SAP BTP, ABAP Environment – AD181v](https://go3.events.sap.com/sapteched/virtual/2023/reg/flow/sap/sapteched23/catalog/page/catalog/session/1693019545062001fMQZ)
+  - Live session: 📅 Friday, Nov 3 | 🕐 6:30 PM – 6:55 PM CET (9:30 AM – 9:55 AM PST)
+  - 📺 Replay will be available after the live session 
 
 ## Related ressources
  - 📃 [State-of-the-Art ABAP Development with the ABAP RESTful Application Programming Model (RAP) | SAP Community](https://community.sap.com/topics/abap/rap)
