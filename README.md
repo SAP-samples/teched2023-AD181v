@@ -78,7 +78,7 @@ The requirements to follow the exercises in this repository are:
 
 ### Optional exercises
 
-The excercises above focus on the development capabilities available in the ABAP development tools for Eclipse (ADT). For the preview of the resulting app, the _SAP Fiori elements App Preview_ integrated in ADT will be used. If you want to create, deploy, and run the proper SAP Fiori elements app with the SAP Business Application Studio, then follow the instructions in the tutorial below from the SAP Developers' Center.
+The main exercises above focus on the development capabilities available in the ABAP Development Tools for Eclipse (ADT). The _SAP Fiori elements App Preview_ integrated in ADT is used to preview of the resulting app. To create, deploy, and run the actual SAP Fiori elements-based _Travel_ app using the SAP Business Application Studio, follow the instructions in the following tutorial from the SAP Developers' Center:
 
 🛠 [Develop, Deploy, and Run a Fiori Application with SAP Business Application Studio | SAP Tutorials](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
 
