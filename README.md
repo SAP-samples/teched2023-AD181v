@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2023 Jump-Start session
 
   > 📺 Live session: 📅 Friday, Nov 3 | 🕐 6:30 PM – 6:55 PM CET (9:30 AM – 9:55 AM PST)
 
-The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premises. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. This session focuses on the development capabilities available in the ABAP development tools. 
+The ABAP RESTful application programming model (RAP) is at the heart of the ABAP Cloud development model for building transactional, cloud-ready business apps and services on SAP BTP, ABAP environment and SAP S/4HANA, in the cloud and on premises. Learn how to use RAP features, such as late numbering, side effects, and business events, to build your own SAP Fiori apps. This session focuses on the development capabilities available in the ABAP development tools. 
 
 ## Overview
 
