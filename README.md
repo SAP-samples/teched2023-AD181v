@@ -14,7 +14,7 @@ The ABAP RESTful application programming model (RAP) is at the heart of the ABAP
 
 In this Jump-Start session, participants will learn how to use the core features of the ABAP RESTful application programming model (RAP) to build modern, cloud-ready, transactional SAP Fiori applications and services.
 
-This section provides a brief introduction to RAP and to the current business scenario.
+This section provides a brief introduction to RAP and to the current business scenario. 
 
 <details>
   <summary>Click to expand!</summary>
